@@ -1,16 +1,16 @@
-#National Anthem ESP32 Project 🇮🇳
-This is an ESP32-based project that displays the national anthem of India on a 16x2 LCD screen using I2C communication. The anthem is shown in a scrolling manner, making it easy to view on limited character screens.
+# National Anthem ESP32 Project 🇮🇳
+# This is an ESP32-based project that displays the national anthem of India on a 16x2 LCD screen using I2C communication. The anthem is shown in a scrolling manner, making it easy to view on limited character screens.
 
-Project Overview
-This project uses the following components:
+#Project Overview
+#This project uses the following components:
 
-ESP32 microcontroller
-16x2 LCD Display with I2C interface
-Arduino IDE
-The code displays the national anthem of India in English transliteration. The text scrolls across the display continuously to accommodate the entire anthem on the small screen.
+#ESP32 microcontroller
+#16x2 LCD Display with I2C interface
+#Arduino IDE
+#The code displays the national anthem of India in English transliteration. The text scrolls across the display continuously to accommodate the entire anthem on the small screen.
 
-Features
-Scrolling Text: The text scrolls smoothly across the LCD display.
+#Features
+#Scrolling Text: The text scrolls smoothly across the LCD display.
 I2C Communication: The project uses the I2C protocol to communicate with the LCD, saving GPIO pins on the ESP32.
 Customizable Delay: The scroll speed can be adjusted easily by modifying the scrollDelay variable.
 Getting Started
